@@ -1,0 +1,4 @@
+2021-08--18 16:05:17 INFO  Log4jBasicConfigurator:16 - Example for info msg
+2021-08--18 16:05:17 WARN  Log4jBasicConfigurator:17 - Example for warn msg
+2021-08--18 16:05:17 ERROR Log4jBasicConfigurator:18 - Example for error msg
+2021-08--18 16:05:17 FATAL Log4jBasicConfigurator:19 - Example for fatal msg
